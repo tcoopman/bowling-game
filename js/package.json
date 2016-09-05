@@ -4,16 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node test/index.js | node node_modules/.bin/faucet/"
+    "test": "node test/index.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "babel": "^5.8.23",
-    "babel-eslint": "^4.1.2",
-    "eslint": "^1.4.1",
-    "eslint-config-airbnb": "0.0.8",
-    "eslint-plugin-react": "^3.3.2",
+    "babel": "^6.5.2",
+    "babel-eslint": "^6.1.2",
+    "eslint": "^3.4.0",
+    "eslint-config-airbnb": "10.0.1",
+    "eslint-plugin-react": "^6.2.0",
     "faucet": "0.0.1",
     "tape": "^4.2.0"
   }
